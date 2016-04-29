@@ -1,0 +1,22 @@
+{
+"name": "conclusionMC/hiera_zookeeper",
+"version": "1.0.0",
+"author": "zahna",
+"summary": "This module installs a zookeeper backend for hiera",
+"license": "Apache-2.0",
+"source": "https://github.com/ConclusionMC/hiera_zookeeper",
+"project_page": "https://github.com/ConclusionMC/hiera_zookeeper",
+"issues_url": "https://github.com/ConclusionMC/hiera_zookeeper/issues",
+"operatingsystem_support": [
+  {
+    "operatingsystem": "RedHat",
+    "operatingsystemrelease": [
+      "5",
+      "6",
+      "7"
+    ]
+  }
+],
+"dependencies": [
+  ]
+}
